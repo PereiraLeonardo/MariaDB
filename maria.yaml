@@ -23,9 +23,9 @@ spec:
           - containerPort: 3306
         env:
           - name: MARIADB_ROOT_PASSWORD
-            value: iCx,74*Ary
+            value: 
           - name: MARIADB_DATABASE
-            value: glpi10
+            value: 
           - name: DB_HOST
             value: mariadb-service
 
